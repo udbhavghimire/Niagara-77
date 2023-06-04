@@ -1,0 +1,52 @@
+.hero-section {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.plant-container {
+    position: relative;
+    height: 100%;
+    transform: scaleY(0);
+    transform-origin: bottom center;
+    animation: grow 3s ease-in-out forwards;
+}
+
+.plant-image {
+    width: 100%;
+    height: auto;
+    opacity: 0;
+    animation: fade 2s ease-in-out forwards;
+}
+
+.background-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('../images/herobg.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+@keyframes grow {
+    0% {
+        transform: scaleY(0);
+    }
+    100% {
+        transform: scaleY(1);
+    }
+}
+
+@keyframes fade {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
