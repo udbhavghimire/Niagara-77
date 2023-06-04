@@ -15,6 +15,7 @@
 }
 
 .plant-image {
+    bottom: 0;
     width: 100%;
     height: auto;
     opacity: 0;
@@ -48,5 +49,15 @@
     }
     100% {
         opacity: 1;
+    }
+}
+
+@media (max-width: 768px) {
+    .hero-section {
+        height: 130vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
     }
 }
