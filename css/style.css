@@ -1,14 +1,14 @@
+@font-face {
+    font-family: myfont;
+    src: url(../css/font/verah.ttf);
+}
+
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
     letter-spacing: 0.2px;
-}
-
-body {
-    margin: 0;
-    padding: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'myfont', sans-serif !important;
 }
 
 .hero-section {
