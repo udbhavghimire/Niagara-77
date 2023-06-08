@@ -219,6 +219,11 @@
     letter-spacing: 2.5px;
 }
 
+.textt {
+    font-size: 26px;
+    text-align: center;
+}
+
 .foot-up-img {
     opacity: 0.25;
     margin-bottom: -5px;
