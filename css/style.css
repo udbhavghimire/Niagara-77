@@ -1,6 +1,6 @@
 @font-face {
     font-family: myfont;
-    src: url(../css/font/verah.ttf);
+    src: url(../font/verah.ttf);
 }
 
 * {
@@ -55,6 +55,7 @@
     /* Adjust the horizontal position */
     transform: translateX(-50%);
     animation-name: grow;
+    animation-delay: 250ms;
     animation-duration: 3s;
     animation-fill-mode: forwards;
     transform-origin: bottom center;
@@ -200,6 +201,21 @@
 
 .afte:hover {
     transform: scale(1.04);
+}
+
+.card-zoom {
+    transition: all 0.3s;
+}
+
+.card-zoom:hover {
+    transform: scale(1.04);
+}
+
+.card-img-top {
+    height: 400px;
+    object-fit: cover;
+    width: 100%;
+    border-radius: 15px;
 }
 
 .fields {
