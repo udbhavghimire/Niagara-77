@@ -237,7 +237,9 @@
 
 .textt {
     font-size: 26px;
-    text-align: center;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .foot-up-img {
@@ -305,7 +307,7 @@
     }
     .main-title {
         padding-top: 40px;
-        font-size: 3rem;
+        font-size: 2.2rem !important;
         letter-spacing: 2.5px;
     }
     .navbar-brand {

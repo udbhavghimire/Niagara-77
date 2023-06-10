@@ -34,8 +34,8 @@
         <nav class="navbar navbar-expand-lg fixed-top" id="navbar">
             <div class="container-fluid px-md-5 px-2">
                 <a href="/" class="navbar-brand "><img src="images/niagara77-log.jpeg" class="img-fluid navbar-brand" alt="Niagara 77 "></a>
-                <a href="#Contact" class="btn call-btn fss d-block d-md-none">
-                                    Register Now 
+                <a href="#contact" class="btn nav-link fss d-block d-md-none me-3 fw-bold scrollto">
+                                    Register Now  <i class="bi bi-arrow-right-short"></i>
             </a>
                 <!-- <button class="d-block d-md-none btn" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <svg width="18" height="12" viewBox="0 0 18 12" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -71,8 +71,8 @@
                             </li> -->
 
                             <li class="nav-item px-md-2 d-none d-md-block">
-                                <a href="#Contact" class="btn call-btn fss">
-                                    Register Now 
+                                <a href="#contact" class="btn nav-link fss fw-bold scrollto">
+                                    Register Now <i class="bi bi-arrow-right-short"></i>
             </a>
                             </li>
                         </ul>
@@ -96,10 +96,9 @@
         </div>
     </section>
     <section class="mt-md-5 py-md-5">
-        <div class="container">
-            <h1 class=" main-title pt-md-5 pb-5 fw-bold ps-3 ps-md-0 d-flex justify-content-center text-center">Niagara 77 Condos</h1>
-            <h1 class=" fs-5 pb-3 px-3 ps-md-0 d-flex justify-content-center text-center">5602 Robinson Street, Niagara Falls, ON</h1>
-            <h1 class=" pb-3 px-3 px-md-5 mx-md-5 d-flex justify-content-center align-items-center textt">Situated in the center of the city, this residential area offers residents unparalleled convenience to a wide range of attractions in Niagara Falls. With its prime location, residents can enjoy breathtaking views of the Falls, explore the
+        <div class="container mt-5">
+            <h1 class=" main-title pt-md-5 pb-5  fw-bold ps-3 ps-md-0 d-flex justify-content-center text-center">Niagara 77 Condos</h1>
+            <h1 class=" pb-3 px-3   textt">Niagara 77 condos is a new upcoming preconstruction project at 5602 Robinson Street, Niagara Falls, ON, situated in the center of the city. This residential area offers residents unparalleled convenience to a wide range of attractions in Niagara Falls. With its prime location, residents can enjoy breathtaking views of the Falls, explore the
                 vibrant Clifton Hill, easily access GO Transit Services, indulge in shopping at various malls, and much more.</h1>
         </div>
 
@@ -110,7 +109,7 @@
             <div class="container pt-3 " id="gallery">
                 <div class="my-md-5 my-3"></div>
                 <div class="pt-md-5 pt-5">
-                    <h2 class="fw-bold title pb-3 ps-3 ps-md-0 d-flex justify-content-center  brand-color">
+                    <h2 class="fw-bold fs-1 pb-3 ps-3 ps-md-0 d-flex justify-content-center  brand-color">
                         Models and Renderings
                     </h2>
                 </div>
@@ -166,7 +165,7 @@
                 </h2>
                 <span class="small-text text-center d-flex justify-content-center custom-underline pb-3">5602 Robinson St, Niagara Falls, Ontario</span>
                 <div>
-                    <div class="bg-white p-1   rounded-mine d-flex justify-content-center ">
+                    <div class="bg-white p-1  d-flex justify-content-center ">
                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2913.876928492075!2d-79.085971!3d43.0860827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d3430d434dfa7f%3A0x3643e7a6918ebf11!2s5602%20Robinson%20St%2C%20Niagara%20Falls%2C%20ON%20L2G%202A8%2C%20Canada!5e0!3m2!1sen!2snp!4v1685979402738!5m2!1sen!2snp"
                             width="900" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
@@ -174,14 +173,32 @@
             </div>
         </div>
     </section>
+    <section>
+        <div class="container pt-md-5 pt-5" id="location">
+            <div class="pt-md-5 "></div>
+            <div class="py-5">
+                <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center">
+                    <span class="mx-1 pb-3">Street View</span> </span>
+                </h2>
+                
+                <div>
+                    <div class="bg-white p-1  d-flex justify-content-center ">
+                    <iframe src="https://www.google.com/maps/embed?pb=!4v1686398555566!6m8!1m7!1sRQEIkKzbWeVY3ifIqtYsxw!2m2!1d43.08624333978165!2d-79.08619513525727!3f119.39777802072847!4f-13.677754062084233!5f0.4000000000000002" width="900" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <section>
-        <div class="container">
+        <div class="container" id="update">
             <div class="row mt-5">
-                <div class="pt-md-5 pt-5">
-                    <h2 class="fw-bold fs-1 pb-5 ps-3 ps-md-0 d-flex justify-content-center  brand-color">
+                <div class="pt-md-5 pt-5 pb-5">
+                    <h2 class="fw-bold fs-1  ps-3 ps-md-0 d-flex justify-content-center  brand-color">
                         News and Updates
+                       
                     </h2>
+                    <span class="small-text text-center d-flex justify-content-center custom-underline pb-3">See the latest news and updates on Niagara 77 Condos</span>
                 </div>
                 <div class="col-md-4 ">
                     <a href="https://www.101morefm.ca/news/local-news/city-of-niagara-falls-approves-77-storey-condo-building/#:~:text=The%20City%20of%20Niagara%20Falls,Robinson%20Street%20and%20Allendale%20Avenue" target="_blank" class="text-decoration-none">
@@ -216,7 +233,7 @@
     </section>
 
     <section>
-        <div class="pt-5 " id="Contact ">
+        <div class="pt-5 " id="contact">
             <div class="pt-5 mt-5 ">
                 <div class="row mx-0 ">
                     <!-- <div class="text-center pt-3 ">
@@ -233,17 +250,17 @@
                     <div class="col-md-3 "></div>
                     <div class="col-md-6 px-md-5 ">
 
-                        <form action="contactForm.php " method="POST ">
+                        <form action="./contactForm.php" method="POST">
                             <div class="row ">
-                                <div class="mb-3 "><input type="text " placeholder="Name " name="name " id="name " class="fields " required></div>
+                                <div class="mb-3 "><input type="text" placeholder="Name" name="name" id="name" class="fields" required></div>
 
                             </div>
                             <div class="row row-cols-1 row-cols-sm-2 ">
                                 <div class="col ">
-                                    <div class="mb-3 "><input type="text" aria-describedby="emailHelp " placeholder="Phone " name="phone" id="phone" class="fields" required></div>
+                                    <div class="mb-3 "><input type="text" aria-describedby="emailHelp" placeholder="Phone" name="phone" id="phone" class="fields" required></div>
                                 </div>
                                 <div class="col ">
-                                    <div class="mb-3 "><input type="text" aria-describedby="emailHelp " placeholder="Email " name="email" id="email" class="fields" required></div>
+                                    <div class="mb-3 "><input type="text" aria-describedby="emailHelp" placeholder="Email" name="email" id="email" class="fields" required></div>
                                 </div>
                             </div>
                             <div class="row ">
