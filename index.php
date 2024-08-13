@@ -1,4 +1,4 @@
-<?php session_start();?>
+<?php session_start(); ?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -7,7 +7,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Niagara 77 Condos | Tallest Condo in Canada</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
 
     <!-- Option 1: Include in HTML -->
@@ -17,8 +18,10 @@
     <link rel="stylesheet" href="css/silverBox.min.css">
 
     <meta name="title" content="Niagara 77 Condos | The Tallest Condo in Canada">
-    <meta name="description" content="Niagara 77 Condos is a new pre-construction condo and townhouse development by Fugiel International Group and La Pue International. Coming soon to 5602 Robinson Street in Niagara Falls">
-    <meta name="keywords" content="Niagara 77 Condos, Niagara 77, Tallest condo in canada, Condos in Niagara, Fugiel International Group, La Pue International,ugiel international group,niagara falls 72 story building, condo development niagara, niagara falls tallest buildings">
+    <meta name="description"
+        content="Niagara 77 Condos is a new pre-construction condo and townhouse development by Fugiel International Group and La Pue International. Coming soon to 5602 Robinson Street in Niagara Falls">
+    <meta name="keywords"
+        content="Niagara 77 Condos, Niagara 77, Tallest condo in canada, Condos in Niagara, Fugiel International Group, La Pue International,ugiel international group,niagara falls 72 story building, condo development niagara, niagara falls tallest buildings">
     <meta name="robots" content="index, follow">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="language" content="English">
@@ -33,10 +36,11 @@
     <header class="header-transparent" id="header">
         <nav class="navbar navbar-expand-lg fixed-top" id="navbar">
             <div class="container-fluid px-md-5 px-2">
-                <a href="/" class="navbar-brand "><img src="images/niagara77-log.jpeg" class="img-fluid navbar-brand" alt="Niagara 77 "></a>
+                <a href="/" class="navbar-brand "><img src="images/niagara77-log.jpeg" class="img-fluid navbar-brand"
+                        alt="Niagara 77 "></a>
                 <a href="#contact" class="btn nav-link fss d-block d-md-none me-3 fw-bold scrollto">
-                                    Register Now  <i class="bi bi-arrow-right-short"></i>
-            </a>
+                    Register Now <i class="bi bi-arrow-right-short"></i>
+                </a>
                 <!-- <button class="d-block d-md-none btn" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <svg width="18" height="12" viewBox="0 0 18 12" fill="none" xmlns="http://www.w3.org/2000/svg">
         <path d="M0 12H18V10H0V12ZM0 7H18V5H0V7ZM0 0V2H18V0H0Z" fill="black" />
@@ -73,7 +77,7 @@
                             <li class="nav-item px-md-2 d-none d-md-block">
                                 <a href="#contact" class="btn nav-link fss fw-bold scrollto">
                                     Register Now <i class="bi bi-arrow-right-short"></i>
-            </a>
+                                </a>
                             </li>
                         </ul>
                     </div>
@@ -97,9 +101,14 @@
     </section>
     <section class="mt-md-5 py-md-5">
         <div class="container mt-5">
-            <h1 class=" main-title pt-md-5 pb-5  fw-bold ps-3 ps-md-0 d-flex justify-content-center text-center">Niagara 77 Condos</h1>
-            <h1 class=" pb-3 px-3   textt">Niagara 77 condos is a new upcoming preconstruction project at 5602 Robinson Street, Niagara Falls, ON, situated in the center of the city. This residential area offers residents unparalleled convenience to a wide range of attractions in Niagara Falls. With its prime location, residents can enjoy breathtaking views of the Falls, explore the
-                vibrant Clifton Hill, easily access GO Transit Services, indulge in shopping at various malls, and much more.</h1>
+            <h1 class=" main-title pt-md-5 pb-5  fw-bold ps-3 ps-md-0 d-flex justify-content-center text-center">Niagara
+                77 Condos</h1>
+            <h1 class=" pb-3 px-3   textt">Niagara 77 condos is a new upcoming preconstruction project at 5602 Robinson
+                Street, Niagara Falls, ON, situated in the center of the city. This residential area offers residents
+                unparalleled convenience to a wide range of attractions in Niagara Falls. With its prime location,
+                residents can enjoy breathtaking views of the Falls, explore the
+                vibrant Clifton Hill, easily access GO Transit Services, indulge in shopping at various malls, and much
+                more.</h1>
         </div>
 
     </section>
@@ -120,32 +129,38 @@
                         ">
                             <div class="col">
                                 <div class="afte">
-                                    <img loading="lazy" src="images/1.jpeg" alt="Niagara 77 Condos" class="img-fluid imghei">
+                                    <img loading="lazy" src="images/1.jpeg" alt="Niagara 77 Condos"
+                                        class="img-fluid imghei">
                                 </div>
                             </div>
                             <div class="col">
                                 <div class="afte">
-                                    <img loading="lazy" src="images/2.jpeg" alt="Niagara 77 Condos" class="img-fluid imghei">
+                                    <img loading="lazy" src="images/2.jpeg" alt="Niagara 77 Condos"
+                                        class="img-fluid imghei">
                                 </div>
                             </div>
                             <div class="col">
                                 <div href="#" class="afte">
-                                    <img loading="lazy" src="images/3.jpeg" alt="Niagara 77 Condos" class="img-fluid imghei">
+                                    <img loading="lazy" src="images/3.jpeg" alt="Niagara 77 Condos"
+                                        class="img-fluid imghei">
                                 </div>
                             </div>
                             <div class="col">
                                 <div class="afte">
-                                    <img loading="lazy" src="images/4.jpeg" alt="Niagara 77 Condos" class="img-fluid imghei">
+                                    <img loading="lazy" src="images/4.jpeg" alt="Niagara 77 Condos"
+                                        class="img-fluid imghei">
                                 </div>
                             </div>
                             <div class="col">
                                 <div class="afte">
-                                    <img loading="lazy" src="images/5.jpeg" alt="Niagara 77 Condos" class="img-fluid imghei">
+                                    <img loading="lazy" src="images/5.jpeg" alt="Niagara 77 Condos"
+                                        class="img-fluid imghei">
                                 </div>
                             </div>
                             <div class="col">
                                 <div class="afte">
-                                    <img loading="lazy" src="images/6.jpeg" alt="Niagara 77 Condos" class="img-fluid imghei">
+                                    <img loading="lazy" src="images/6.jpeg" alt="Niagara 77 Condos"
+                                        class="img-fluid imghei">
                                 </div>
                             </div>
                         </div>
@@ -163,11 +178,14 @@
                 <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center">
                     <span class="mx-1 pb-3">Project Location</span> </span>
                 </h2>
-                <span class="small-text text-center d-flex justify-content-center custom-underline pb-3">5602 Robinson St, Niagara Falls, Ontario</span>
+                <span class="small-text text-center d-flex justify-content-center custom-underline pb-3">5602 Robinson
+                    St, Niagara Falls, Ontario</span>
                 <div>
                     <div class="bg-white p-1  d-flex justify-content-center ">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2913.876928492075!2d-79.085971!3d43.0860827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d3430d434dfa7f%3A0x3643e7a6918ebf11!2s5602%20Robinson%20St%2C%20Niagara%20Falls%2C%20ON%20L2G%202A8%2C%20Canada!5e0!3m2!1sen!2snp!4v1685979402738!5m2!1sen!2snp"
-                            width="900" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2913.876928492075!2d-79.085971!3d43.0860827!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d3430d434dfa7f%3A0x3643e7a6918ebf11!2s5602%20Robinson%20St%2C%20Niagara%20Falls%2C%20ON%20L2G%202A8%2C%20Canada!5e0!3m2!1sen!2snp!4v1685979402738!5m2!1sen!2snp"
+                            width="900" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                 </div>
             </div>
@@ -180,10 +198,13 @@
                 <h2 class="fw-bold fs-1 mb-0 text-center justify-content-center">
                     <span class="mx-1 pb-3">Street View</span> </span>
                 </h2>
-                
+
                 <div>
                     <div class="bg-white p-1  d-flex justify-content-center ">
-                    <iframe src="https://www.google.com/maps/embed?pb=!4v1686398555566!6m8!1m7!1sRQEIkKzbWeVY3ifIqtYsxw!2m2!1d43.08624333978165!2d-79.08619513525727!3f119.39777802072847!4f-13.677754062084233!5f0.4000000000000002" width="900" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!4v1686398555566!6m8!1m7!1sRQEIkKzbWeVY3ifIqtYsxw!2m2!1d43.08624333978165!2d-79.08619513525727!3f119.39777802072847!4f-13.677754062084233!5f0.4000000000000002"
+                            width="900" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade"></iframe>
                     </div>
                 </div>
             </div>
@@ -196,16 +217,19 @@
                 <div class="pt-md-5 pt-5 pb-5">
                     <h2 class="fw-bold fs-1  ps-3 ps-md-0 d-flex justify-content-center  brand-color">
                         News and Updates
-                       
+
                     </h2>
-                    <span class="small-text text-center d-flex justify-content-center custom-underline pb-3">See the latest news and updates on Niagara 77 Condos</span>
+                    <span class="small-text text-center d-flex justify-content-center custom-underline pb-3">See the
+                        latest news and updates on Niagara 77 Condos</span>
                 </div>
                 <div class="col-md-4 ">
-                    <a href="https://www.101morefm.ca/news/local-news/city-of-niagara-falls-approves-77-storey-condo-building/#:~:text=The%20City%20of%20Niagara%20Falls,Robinson%20Street%20and%20Allendale%20Avenue" target="_blank" class="text-decoration-none">
+                    <a href="https://www.101morefm.ca/news/local-news/city-of-niagara-falls-approves-77-storey-condo-building/#:~:text=The%20City%20of%20Niagara%20Falls,Robinson%20Street%20and%20Allendale%20Avenue"
+                        target="_blank" class="text-decoration-none">
                         <div class="card shadow-lg border-0  card-zoom ">
                             <div class=" card-body ">
                                 <img src="images/c1.jpg" class="card-img-top" alt="Niagara 77 Condos">
-                                <h1 class="card-title fs-3 p-3 mt-2">City of Niagara Falls Approves 77-Storey Condo Building</h1>
+                                <h1 class="card-title fs-3 p-3 mt-2">City of Niagara Falls Approves 77-Storey Condo
+                                    Building</h1>
                             </div>
                         </div>
                     </a>
@@ -214,16 +238,21 @@
                     <div class="card shadow-lg border-0  card-zoom">
 
                         <div class="card-body ">
-                            <iframe width="100%" height="550px" src="https://www.youtube.com/embed/zrbgMr1KCwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                            <iframe width="100%" height="550px" src="https://www.youtube.com/embed/zrbgMr1KCwg"
+                                title="YouTube video player" frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                                allowfullscreen></iframe>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-4  ">
-                    <a href="https://www.insauga.com/canadas-tallest-condo-building-will-be-built-in-niagara-falls/#:~:text=Niagara%20Falls%20has%20approved%20a,%2C%20townhomes%2C%20and%20retail%20outlets" class="text-decoration-none" target="_blank">
+                    <a href="https://www.insauga.com/canadas-tallest-condo-building-will-be-built-in-niagara-falls/#:~:text=Niagara%20Falls%20has%20approved%20a,%2C%20townhomes%2C%20and%20retail%20outlets"
+                        class="text-decoration-none" target="_blank">
                         <div class="card shadow-lg border-0  card-zoom">
                             <div class="card-body ">
                                 <img src="images/5.jpeg" class="card-img-top" alt="Niagara 77 Condos">
-                                <h1 class="card-title fs-3 p-3 mt-2">Canada’s tallest condo building will be built in Niagara Falls</h1>
+                                <h1 class="card-title fs-3 p-3 mt-2">Canada’s tallest condo building will be built in
+                                    Niagara Falls</h1>
                             </div>
                         </div>
                     </a>
@@ -252,22 +281,28 @@
 
                         <form action="./contactForm.php" method="POST">
                             <div class="row ">
-                                <div class="mb-3 "><input type="text" placeholder="Name" name="name" id="name" class="fields" required></div>
+                                <div class="mb-3 "><input type="text" placeholder="Name" name="name" id="name"
+                                        class="fields" required></div>
 
                             </div>
                             <div class="row row-cols-1 row-cols-sm-2 ">
                                 <div class="col ">
-                                    <div class="mb-3 "><input type="text" aria-describedby="emailHelp" placeholder="Phone" name="phone" id="phone" class="fields" required></div>
+                                    <div class="mb-3 "><input type="text" aria-describedby="emailHelp"
+                                            placeholder="Phone" name="phone" id="phone" class="fields" required></div>
                                 </div>
                                 <div class="col ">
-                                    <div class="mb-3 "><input type="text" aria-describedby="emailHelp" placeholder="Email" name="email" id="email" class="fields" required></div>
+                                    <div class="mb-3 "><input type="text" aria-describedby="emailHelp"
+                                            placeholder="Email" name="email" id="email" class="fields" required></div>
                                 </div>
                             </div>
                             <div class="row ">
-                                <div class=" "><textarea name="message" id="message" placeholder="Enter your message" class="fields mess" required></textarea></div>
+                                <div class=" "><textarea name="message" id="message" placeholder="Enter your message"
+                                        class="fields mess" required></textarea></div>
                             </div>
                             <div class="row ">
-                                <p class=" text-muted sm-text text-center mt-0 ">*I consent to receive future communications about Niagara 77 Condos. I understand I can opt out at anytime by sending an email.</p>
+                                <p class=" text-muted sm-text text-center mt-0 ">*I consent to receive future
+                                    communications about Niagara 77 Condos. I understand I can opt out at anytime by
+                                    sending an email.</p>
                             </div>
                             <div class="row ">
                                 <div class="col text-center ">
@@ -292,13 +327,18 @@
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-5 pt-5 justify-content-between ">
                 <div class="col-md-5 my-3 fotwidth center-sm px-4 px-md-0 ">
                     <p class=" ">
-                        <h1 class="navbar-brand fs-2 "><img src="images/niagara77-log.jpeg " class="navbar-brand " alt=" niagara77 logo"></h1>
+                    <h1 class="navbar-brand fs-2 "><img src="images/niagara77-log.jpeg " class="navbar-brand "
+                            alt=" niagara77 logo"></h1>
                     </p>
                     <span class=" justifyy ">
-                        We do not represent the builder. All renderings, incentives, pricing are subject to terms & conditions and may change at anytime without notice – see sales representatives for more details. not intended to solicit those under contract with another brokerage.  </span>
+                        We do not represent the builder. All renderings, incentives, pricing are subject to terms &
+                        conditions and may change at anytime without notice – see sales representatives for more
+                        details. not intended to solicit those under contract with another brokerage. </span>
                     <div class="list pt-md-5 pt-3 d-md-block d-none ">
-                        <p class=" ">
-                            Website designed by <a href="https://www.sixdesign.ca/ " target="_blank " class="text-dark text-decoration-none "><strong>SixDesign.</strong> </a>
+                        <p class=" fw-bold">
+                            <a href="https://condomonk.ca/niagara " target="_blank "
+                                class="text-dark text-decoration-none ">
+                                <strong>Pre construction homes in Niagara </strong> </a>
                         </p>
 
                     </div>
@@ -327,16 +367,19 @@
                     </div>
                 </div>
 
-                <div class="col-md-3 mt-sm-0 pt-4 center-sm d-flex justify-content-around align-items-center text-center ">
+                <div
+                    class="col-md-3 mt-sm-0 pt-4 center-sm d-flex justify-content-around align-items-center text-center ">
                     <img src="images/fugiel-logo.png " class="img-fluid footer-logo-fugiel " alt="fugiel-logo ">
-                    <img src="images/lapue-international-logo.webp " class="img-fluid footer-logo " alt="lapue-international-logo ">
+                    <img src="images/lapue-international-logo.webp " class="img-fluid footer-logo "
+                        alt="lapue-international-logo ">
 
                 </div>
             </div>
 
             <div class="list mt-5 pt-5 d-md-none d-block center-sm px-4 ">
-                <p class=" ">
-                    Website designed by <a href="https://www.sixdesign.ca/ " target="_blank " class="text-dark text-decoration-none "><strong>SixDesign.</strong> </a>
+                <p class=" fw-bold">
+                    <a href="https://condomonk.ca/niagara " target="_blank " class="text-dark text-decoration-none ">
+                        <strong>Pre construction homes in Niagara</strong> </a>
                 </p>
 
             </div>
@@ -346,7 +389,7 @@
 
     <script>
         // Change navbar background color on scroll
-        window.addEventListener('scroll', function() {
+        window.addEventListener('scroll', function () {
             const navbar = document.querySelector('.navbar');
             if (window.scrollY > 0) {
                 navbar.classList.remove('transparent-navbar');
@@ -362,42 +405,42 @@
         });
     </script>
 
-<script src="js/silverBox.min.js" ></script>
-            
-            <?php
-        if(
-        isset($_SESSION['success'])
-        ){
-            ?>
-    <script type="text/javascript" async>
-       silverBox({
-	title: {
-		text: "Success",
-		alertIcon: "success",
-	},
-	text: "Your Message has been received.\n We'll get back to you soon.",
-});
-    </script>
-    <?php
-            unset($_SESSION['success']);
-        }
+    <script src="js/silverBox.min.js"></script>
 
-        if(
-            isset($_SESSION['error'])
-            ){
-                ?>
-    <script type="text/javascript" async>
-           silverBox({
-	title: {
-		text: "Error",
-		alertIcon: "error",
-	},
-	text: "Your Message has not been received.",
-});
-    </script>
     <?php
-                unset($_SESSION['error']);
-            }
+    if (
+        isset($_SESSION['success'])
+    ) {
+        ?>
+        <script type="text/javascript" async>
+            silverBox({
+                title: {
+                    text: "Success",
+                    alertIcon: "success",
+                },
+                text: "Your Message has been received.\n We'll get back to you soon.",
+            });
+        </script>
+        <?php
+        unset($_SESSION['success']);
+    }
+
+    if (
+        isset($_SESSION['error'])
+    ) {
+        ?>
+        <script type="text/javascript" async>
+            silverBox({
+                title: {
+                    text: "Error",
+                    alertIcon: "error",
+                },
+                text: "Your Message has not been received.",
+            });
+        </script>
+        <?php
+        unset($_SESSION['error']);
+    }
     ?>
 
 </body>
