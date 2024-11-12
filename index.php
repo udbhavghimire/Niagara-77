@@ -32,7 +32,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png">
 
     <!-- begin Widget Tracker Code -->
-    <script>
+    <!-- <script>
         (function (w, i, d, g, e, t) {
             w["WidgetTrackerObject"] = g; (w[g] = w[g] || function () { (w[g].q = w[g].q || []).push(arguments); }), (w[g].ds = 1 * new Date()); (e = "script"),
                 (t = d.createElement(e)), (e = d.getElementsByTagName(e)[0]); t.async = 1; t.src = i;
@@ -41,7 +41,7 @@
             (window, "https://widgetbe.com/agent", document, "widgetTracker");
         window.widgetTracker("create", "WT-KPVDOHAU");
         window.widgetTracker("send", "pageview");
-    </script>
+    </script> -->
     <!-- end Widget Tracker Code -->
 </head>
 
